@@ -6,6 +6,8 @@ FIRST RUN 👀 👇
 
 termux-setup-storage
 
+$Pkg install git
+
 $ git clone https://github.com/Samiul6/Setup
 
 $ cd Setup
