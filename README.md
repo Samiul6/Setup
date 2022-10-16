@@ -12,4 +12,4 @@ $ cd Setup
 
 $ python 't setup.py'
 
-All setup done! now enjoy 🤳
+All setup done! now enjoy 🤳🌺
